@@ -1,0 +1,1 @@
+if true then print_int(2 + 1) else  print_int(2 +2)

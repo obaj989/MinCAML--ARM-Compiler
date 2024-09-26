@@ -1,0 +1,9 @@
+let _ = 
+
+	let v3 = 10 in 
+	let v4 = 20 in 
+	let v6 = v3  in 
+	let v7 = v4  in 
+	let v5 = add v7 v6  in 
+	let v8 = v5  in 
+	call _min_caml_print_int v8 
